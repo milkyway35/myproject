@@ -8,7 +8,7 @@
 </head>
 <body>
 
-main 페이지 입니다.
+main페이지 입니다.
 
 </body>
 </html>
