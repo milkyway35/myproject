@@ -8,9 +8,7 @@
 </head>
 <body>
 
-처음작성 JSP문서~!!
-처음작성 JSP문서~!!    
-처음작성 JSP문서~!! (user1브랜치)  
+main.jsp 페이지
 
 </body>
 </html>
