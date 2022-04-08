@@ -8,7 +8,7 @@
 </head>
 <body>
 
-main.jsp 페이지
+main.jsp 페이지(수정)
 
 </body>
 </html>
