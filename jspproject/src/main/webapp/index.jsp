@@ -9,7 +9,7 @@
 <body>
 
 index.jsp 생성
-index.jsp 생성
+index.jsp 생성(수정)
 
 </body>
 </html>
